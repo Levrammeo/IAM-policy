@@ -90,4 +90,4 @@ scanner:
 
 ## Author
 
-Built by Meo as a cloud security portfolio project.
+Built by Popoola Moses.
