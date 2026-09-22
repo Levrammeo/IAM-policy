@@ -1,8 +1,8 @@
 __pycache__/
- *.pyc
-  .env 
-  .aws/
-   iam_audit_findings.json 
-   iam_audit_findings.csv 
-   report.html 
-   venv/
+*.pyc
+.env 
+.aws/
+iam_audit_findings.json 
+iam_audit_findings.csv 
+report.html 
+venv/
